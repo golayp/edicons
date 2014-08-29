@@ -11,12 +11,12 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   id="svg3284"
+   id="svg4300"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="studentm.svg">
+   sodipodi:docname="cycle1.svg">
   <defs
-     id="defs3286" />
+     id="defs4302" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="-6.7490727"
-     inkscape:cy="24.46561"
+     inkscape:zoom="11.2"
+     inkscape:cx="18.133929"
+     inkscape:cy="7.8482101"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata3289">
+     id="metadata4305">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -55,12 +55,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-298.17172,-580.29968)">
+     transform="translate(-281.4375,-593.92468)">
     <path
-       inkscape:connector-curvature="0"
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.48866057;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       clip-path="none"
-       d="m 314.16948,582.29968 c -3.77395,0 -7.47083,4.68678 -6.28667,9.10555 0.85224,3.1808 1.75274,5.57973 3.52792,6.72233 l 0,2.17404 c -10.02952,0.62495 -10.66256,4.82434 -10.69453,9.99808 l 26.91103,0 c -0.0324,-5.17374 -0.66511,-9.37313 -10.69453,-9.99808 l 0,-2.16548 c 1.76707,-1.12952 2.6605,-3.50977 3.52366,-6.73089 1.18394,-4.41877 -2.51294,-9.10555 -6.28689,-9.10555 z"
-       id="path2985-9" />
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.13800001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 297.4375,595.92468 c -7.73216,0 -14,6.26784 -14,14 0,7.73216 6.26784,14 14,14 7.73216,0 14,-6.26784 14,-14 0,-7.73216 -6.26784,-14 -14,-14 z m -2.90838,5.54561 5.81676,0 0,16.90878 -3.66117,0 0,-13.36419 -2.15559,0 0,-3.54459 z"
+       id="path4117"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

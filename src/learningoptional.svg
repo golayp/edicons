@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="187.125"
-   height="187.15625"
+   width="32"
+   height="32"
    id="svg4219"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="learningoptional.svg">
   <defs
      id="defs4221" />
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="33.205885"
-     inkscape:cy="122.14675"
+     inkscape:zoom="5.6"
+     inkscape:cx="-64.125001"
+     inkscape:cy="22.14675"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,11 +34,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1059"
-     inkscape:window-height="815"
-     inkscape:window-x="495"
-     inkscape:window-y="88"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -57,11 +57,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-281.4375,-438.78125)">
+     transform="translate(-281.4375,-593.9375)">
     <path
-       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.13800000999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 32.59375 25.65625 L 32.59375 132.0625 L 32.59375 161.53125 L 62.09375 161.53125 L 154.5 161.53125 L 154.5 132.0625 L 62.09375 132.0625 L 62.09375 25.65625 L 32.59375 25.65625 z "
-       transform="translate(281.4375,438.78125)"
-       id="rect2996" />
+       style="fill:#000000;stroke:none;stroke-width:0.45600000000000002;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 6.875 5.84375 L 6.875 21.75 L 6.875 26.15625 L 11.28125 26.15625 L 25.125 26.15625 L 25.125 21.75 L 11.28125 21.75 L 11.28125 5.84375 L 6.875 5.84375 z "
+       transform="translate(281.4375,593.9375)"
+       id="rect2990" />
   </g>
 </svg>
