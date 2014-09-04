@@ -14,7 +14,7 @@
    id="svg4271"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="discipline-sciences.svg">
+   sodipodi:docname="discipline-history.svg">
   <defs
      id="defs4273">
     <inkscape:path-effect
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="-4.5937496"
-     inkscape:cy="17.905382"
+     inkscape:zoom="11.2"
+     inkscape:cx="18.629278"
+     inkscape:cy="23.293124"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -117,9 +117,9 @@
      transform="translate(-281.4375,-566.48186)">
     <path
        style="fill:#000000;stroke:none"
-       d="m 287.78111,573.71951 c -4.48157,4.48157 -4.82367,11.54771 -1.02459,16.42102 l 19.2851,-16.72959 -22.13731,21.74173 1.32918,1.32919 3.68296,-4.18141 c 4.87331,3.79908 11.93944,3.45699 16.42101,-1.02458 4.85092,-4.85092 5.63324,-22.79401 5.63324,-22.79401 0,0 -18.33867,0.38672 -23.18959,5.23765 z"
-       id="path2995"
+       d="m 291.98957,568.48186 c 0,0 -1.48188,0.76938 -2.11118,1.30698 -0.61426,0.52475 -1.582,1.83614 -1.582,1.83614 0,0 -6.4e-4,12.41731 0,17.65389 l 14.58934,7.20299 0,-17.68007 -13.56782,-6.67914 c 0,0 0.62468,-1.02043 1.07124,-1.40397 0.46121,-0.39612 1.60042,-0.8748 1.60042,-0.8748 l 13.48924,6.65295 0,16.29186 1.10009,0.55005 0,-17.65389 z"
+       id="rect2987-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scccccscs" />
+       sodipodi:nodetypes="cscccccscccccc" />
   </g>
 </svg>
