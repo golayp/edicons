@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg4271"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="discipline-healthwellbeing.svg">
+  <defs
+     id="defs4273">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3060"
+       is_visible="true"
+       pattern="M 9.53125,0 C 9.53125,0 0,9.04999 0,15.3125 0,20.406167 2.831179,24.694903 6.71875,26.125 L 8.9375,9.34375 l 0,17.28125 0,4.65625 2.90625,0 -0.625,-4.8125 C 15.669796,25.513216 19.0625,20.883181 19.0625,15.3125 19.0625,9.04999 9.53125,0 9.53125,0 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3050"
+       is_visible="true"
+       pattern="M 9.53125,0 C 9.53125,0 0,9.04999 0,15.3125 0,20.406167 2.831179,24.694903 6.71875,26.125 L 8.9375,9.34375 l 0,17.28125 0,4.65625 2.90625,0 -0.625,-4.8125 C 15.669796,25.513216 19.0625,20.883181 19.0625,15.3125 19.0625,9.04999 9.53125,0 9.53125,0 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3011"
+       is_visible="true"
+       pattern="M 0,0 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3002"
+       is_visible="true"
+       pattern="m 316.73214,558.2899 c 0,0 -9.07677,9.53125 -15.33928,9.53125 -6.26252,0 -11.33929,-4.26729 -11.33929,-9.53125 0,-5.26397 5.07677,-9.53125 11.33929,-9.53125 6.26251,0 15.33928,9.53125 15.33928,9.53125 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="16.102196"
+     inkscape:cy="15.263235"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="1147"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4276">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-281.4375,-566.48186)">
+    <path
+       style="fill:#000000"
+       d="M 9.4375 3.40625 C 7.6603 3.41608 7.12674 3.67818 6.0625 4.21875 C 4.55991 4.98197 3.39161 6.22687 2.59375 7.90625 C 2.12348 8.8961 2.002 9.53945 2 11.21875 C 1.9975973 13.290302 2.4404779 15.013736 3.375 16.625 L 8.78125 16.625 L 9.53125 12.3125 C 9.58886 11.77904 10.5674 11.77904 10.625 12.3125 L 11.3125 16.875 C 11.53004 15.70902 11.61983 15.3375 11.90625 13.8125 C 12.19831 12.25748 12.46824 10.70622 12.6875 9.5625 C 12.79713 8.99064 12.90425 8.50986 12.96875 8.1875 C 13.00095 8.02632 13.01255 7.92895 13.03125 7.84375 C 13.04045 7.80115 13.0525 7.75595 13.0625 7.71875 C 13.0675 7.70016 13.0653 7.71159 13.125 7.59375 C 13.13993 7.56429 13.24979 7.40642 13.25 7.40625 C 13.31643 7.35805 13.39415 7.29775 13.46875 7.28125 C 13.69264 7.23178 13.92812 7.34723 14.0625 7.53125 C 14.115 7.60312 14.15618 7.78065 14.15625 7.78125 C 14.15632 7.78185 14.15625 7.82955 14.15625 7.84375 C 14.15625 7.76561 14.15325 7.8405 14.15625 7.875 C 14.15925 7.90955 14.14925 7.96615 14.15625 8.03125 C 14.16985 8.16138 14.19295 8.33004 14.21875 8.5625 C 14.27041 9.02743 14.3487 9.69369 14.4375 10.46875 C 14.61499 12.01886 14.85702 14.05782 15.09375 16.09375 C 15.37531 18.51514 15.47425 19.35013 15.65625 20.90625 L 16.96875 14.5625 C 17.00918 14.0261 17.9916 13.99798 18.0625 14.53125 L 18.65625 16.625 L 28.6875 16.625 C 29.008138 16.077332 29.249747 15.497349 29.46875 14.90625 C 30.23059 12.85001 30.1404 9.20958 29.28125 7.5 C 26.57295 2.11089 18.81259 2.03868 16.375 7.375 L 15.9375 8.3125 L 15.75 7.625 C 15.46679 6.51485 14.11232 4.95 12.78125 4.21875 C 11.68767 3.61797 11.29658 3.39595 9.4375 3.40625 z M 13.4375 11.5 C 13.27985 12.33219 13.14159 13.07977 12.96875 14 C 12.38488 17.10871 11.8125 20.25 11.8125 20.25 C 11.75489 20.78346 10.77635 20.78346 10.71875 20.25 L 10.03125 15.71875 L 9.78125 17.15625 C 9.78356 17.26155 9.72165 17.3057 9.65625 17.375 A 0.50005 0.50005 0 0 1 9.5 17.53125 A 0.50005 0.50005 0 0 1 9.21875 17.625 L 4 17.625 C 4.5224419 18.335792 5.1560542 19.027966 5.90625 19.71875 C 7.39383 21.08852 7.89869 21.48317 11.5625 24.25 C 12.79905 25.18382 14.3036 26.51216 14.90625 27.1875 C 16.04921 28.4683 15.8037 28.88196 16.0625 28.375 C 16.28544 27.93828 19.48272 24.83634 22.3125 22.78125 C 25.084621 20.768033 26.831161 19.197195 28 17.625 L 18.25 17.625 C 18.02862 17.65269 17.80295 17.48491 17.71875 17.28125 C 17.69395 17.25215 17.67425 17.2212 17.65625 17.1875 C 17.65525 17.1784 17.657 17.16525 17.65625 17.15625 C 17.64625 17.13455 17.632 17.11695 17.625 17.09375 L 17.59375 17 L 16.03125 24.375 C 15.9603 24.90832 14.9779 24.8802 14.9375 24.34375 C 14.9375 24.34375 14.47355 20.29125 14 16.21875 C 13.80132 14.51006 13.60124 12.92397 13.4375 11.5 z "
+       transform="translate(281.4375,566.48186)"
+       id="path2417" />
+    <g
+       style="fill:#000000"
+       id="g2221"
+       transform="matrix(0.04375,0,0,0.04375,288.98417,566.74701)" />
+  </g>
+</svg>
