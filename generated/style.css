@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'edicons';
-	src:url('fonts/edicons.eot?-lytrt5');
-	src:url('fonts/edicons.eot?#iefix-lytrt5') format('embedded-opentype'),
-		url('fonts/edicons.woff?-lytrt5') format('woff'),
-		url('fonts/edicons.ttf?-lytrt5') format('truetype'),
-		url('fonts/edicons.svg?-lytrt5#edicons') format('svg');
+	src:url('fonts/edicons.eot?-jig4l4');
+	src:url('fonts/edicons.eot?#iefix-jig4l4') format('embedded-opentype'),
+		url('fonts/edicons.woff?-jig4l4') format('woff'),
+		url('fonts/edicons.ttf?-jig4l4') format('truetype'),
+		url('fonts/edicons.svg?-jig4l4#edicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -17,7 +17,7 @@
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
-	vertical-align: middle;
+
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -157,5 +157,9 @@
 
 .edicons-visualidentity-ec:before {
 	content: "\e600";
+}
+
+.edicons-visualidentity-er:before {
+	content: "\e622";
 }
 
