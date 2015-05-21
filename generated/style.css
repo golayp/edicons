@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'edicons';
-	src:url('fonts/edicons.eot?jdf4en');
-	src:url('fonts/edicons.eot?#iefixjdf4en') format('embedded-opentype'),
-		url('fonts/edicons.woff?jdf4en') format('woff'),
-		url('fonts/edicons.ttf?jdf4en') format('truetype'),
-		url('fonts/edicons.svg?jdf4en#edicons') format('svg');
+	src:url('fonts/edicons.eot?-v3pzmh');
+	src:url('fonts/edicons.eot?#iefix-v3pzmh') format('embedded-opentype'),
+		url('fonts/edicons.woff?-v3pzmh') format('woff'),
+		url('fonts/edicons.ttf?-v3pzmh') format('truetype'),
+		url('fonts/edicons.svg?-v3pzmh#edicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -26,152 +26,114 @@
 .edicons-tool-eraser:before {
 	content: "\e61d";
 }
-
 .edicons-tool-pen:before {
 	content: "\e61e";
 }
-
 .edicons-tool-pencil:before {
 	content: "\e61f";
 }
-
 .edicons-tool-stab:before {
 	content: "\e620";
 }
-
 .edicons-classroom:before {
 	content: "\e601";
 }
-
 .edicons-cycle-1:before {
 	content: "\e602";
 }
-
 .edicons-cycle-2:before {
 	content: "\e603";
 }
-
 .edicons-cycle-3:before {
 	content: "\e604";
 }
-
 .edicons-discipline-citizenship:before {
 	content: "\e605";
 }
-
 .edicons-discipline-geography:before {
 	content: "\e606";
 }
-
 .edicons-discipline-healthwellbeing:before {
 	content: "\e607";
 }
-
 .edicons-discipline-history:before {
 	content: "\e608";
 }
-
 .edicons-discipline-manualactivities:before {
 	content: "\e609";
 }
-
 .edicons-discipline-mathematics:before {
 	content: "\e60a";
 }
-
 .edicons-discipline-mitic:before {
 	content: "\e60b";
 }
-
 .edicons-discipline-music:before {
 	content: "\e60c";
 }
-
 .edicons-discipline-nutrition:before {
 	content: "\e60d";
 }
-
 .edicons-discipline-sciences:before {
 	content: "\e60e";
 }
-
 .edicons-discipline-sport:before {
 	content: "\e60f";
 }
-
 .edicons-discipline-visualarts:before {
 	content: "\e610";
 }
-
 .edicons-learning:before {
 	content: "\e611";
 }
-
 .edicons-learningoptional:before {
 	content: "\e612";
 }
-
 .edicons-studentf:before {
 	content: "\e613";
 }
-
 .edicons-studentm:before {
 	content: "\e614";
 }
-
 .edicons-teacherf:before {
 	content: "\e615";
 }
-
 .edicons-teacherm:before {
 	content: "\e616";
 }
-
 .edicons-visualidentity-ch:before {
 	content: "\e617";
 }
-
 .edicons-visualidentity-ne:before {
 	content: "\e618";
 }
-
 .edicons-visualidentity-neapp:before {
 	content: "\e619";
 }
-
 .edicons-visualidentity-per:before {
 	content: "\e61a";
 }
-
 .edicons-visualidentity-rpn:before {
 	content: "\e61b";
 }
-
-.edicons-visualidentity-rpnapp:before {
-	content: "\e61c";
-}
-
 .edicons-visualidentity-sien:before {
 	content: "\e621";
 }
-
+.edicons-visualidentity-rpnapp:before {
+	content: "\e61c";
+}
 .edicons-visualidentity-ec:before {
 	content: "\e600";
 }
-
 .edicons-visualidentity-er:before {
 	content: "\e622";
 }
-
 .edicons-visualidentity-icar:before {
 	content: "\e623";
 }
-
 .edicons-visualidentity-tcs:before {
 	content: "\e624";
 }
-
 .edicons-visualidentity-phoenix:before {
 	content: "\e625";
 }
-
