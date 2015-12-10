@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'edicons';
-	src:url('fonts/edicons.eot?mp3520');
-	src:url('fonts/edicons.eot?#iefixmp3520') format('embedded-opentype'),
-		url('fonts/edicons.ttf?mp3520') format('truetype'),
-		url('fonts/edicons.woff?mp3520') format('woff'),
-		url('fonts/edicons.svg?mp3520#edicons') format('svg');
+	src:url('fonts/edicons.eot?ll4ms3');
+	src:url('fonts/edicons.eot?ll4ms3#iefix') format('embedded-opentype'),
+		url('fonts/edicons.ttf?ll4ms3') format('truetype'),
+		url('fonts/edicons.woff?ll4ms3') format('woff'),
+		url('fonts/edicons.svg?ll4ms3#edicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="edicons-"], [class*=" edicons-"] {
-	font-family: 'edicons';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'edicons' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,6 +24,39 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.edicons-sense-hearing:before {
+	content: "\e900";
+}
+.edicons-sense-sight .path1:before {
+	content: "\e901";
+	color: rgb(255, 255, 255);
+}
+.edicons-sense-sight .path2:before {
+	content: "\e902";
+	margin-left: -1em;
+	color: rgb(0, 0, 0);
+}
+.edicons-sense-smell:before {
+	content: "\e903";
+}
+.edicons-sense-taste:before {
+	content: "\e904";
+}
+.edicons-sense-touch:before {
+	content: "\e905";
+}
+.edicons-smile-happy:before {
+	content: "\e906";
+}
+.edicons-smile-neutral:before {
+	content: "\e907";
+}
+.edicons-smile-sad:before {
+	content: "\e908";
+}
+.edicons-tip:before {
+	content: "\e909";
+}
 .edicons-classroom:before {
 	content: "\e601";
 }
@@ -140,3 +174,4 @@
 .edicons-visualidentity-tcs:before {
 	content: "\e624";
 }
+
