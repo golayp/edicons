@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'edicons';
-	src:url('fonts/edicons.eot?ll4ms3');
-	src:url('fonts/edicons.eot?ll4ms3#iefix') format('embedded-opentype'),
-		url('fonts/edicons.ttf?ll4ms3') format('truetype'),
-		url('fonts/edicons.woff?ll4ms3') format('woff'),
-		url('fonts/edicons.svg?ll4ms3#edicons') format('svg');
+	src:url('fonts/edicons.eot?k87joz');
+	src:url('fonts/edicons.eot?k87joz#iefix') format('embedded-opentype'),
+		url('fonts/edicons.ttf?k87joz') format('truetype'),
+		url('fonts/edicons.woff?k87joz') format('woff'),
+		url('fonts/edicons.svg?k87joz#edicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,39 +24,6 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.edicons-sense-hearing:before {
-	content: "\e900";
-}
-.edicons-sense-sight .path1:before {
-	content: "\e901";
-	color: rgb(255, 255, 255);
-}
-.edicons-sense-sight .path2:before {
-	content: "\e902";
-	margin-left: -1em;
-	color: rgb(0, 0, 0);
-}
-.edicons-sense-smell:before {
-	content: "\e903";
-}
-.edicons-sense-taste:before {
-	content: "\e904";
-}
-.edicons-sense-touch:before {
-	content: "\e905";
-}
-.edicons-smile-happy:before {
-	content: "\e906";
-}
-.edicons-smile-neutral:before {
-	content: "\e907";
-}
-.edicons-smile-sad:before {
-	content: "\e908";
-}
-.edicons-tip:before {
-	content: "\e909";
-}
 .edicons-classroom:before {
 	content: "\e601";
 }
@@ -111,6 +78,36 @@
 .edicons-learningoptional:before {
 	content: "\e612";
 }
+.edicons-sense-hearing:before {
+	content: "\e900";
+}
+.edicons-sense-sight .path1:before {
+	content: "\e901";
+	color: rgb(255, 255, 255);
+}
+.edicons-sense-sight .path2:before {
+	content: "\e902";
+	margin-left: -1em;
+	color: rgb(0, 0, 0);
+}
+.edicons-sense-smell:before {
+	content: "\e903";
+}
+.edicons-sense-taste:before {
+	content: "\e904";
+}
+.edicons-sense-touch:before {
+	content: "\e905";
+}
+.edicons-smile-happy:before {
+	content: "\e906";
+}
+.edicons-smile-neutral:before {
+	content: "\e907";
+}
+.edicons-smile-sad:before {
+	content: "\e908";
+}
 .edicons-studentf:before {
 	content: "\e613";
 }
@@ -122,6 +119,9 @@
 }
 .edicons-teacherm:before {
 	content: "\e616";
+}
+.edicons-tip:before {
+	content: "\e909";
 }
 .edicons-tool-eraser:before {
 	content: "\e61d";
