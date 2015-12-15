@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'edicons';
-	src:url('fonts/edicons.eot?k87joz');
-	src:url('fonts/edicons.eot?k87joz#iefix') format('embedded-opentype'),
-		url('fonts/edicons.ttf?k87joz') format('truetype'),
-		url('fonts/edicons.woff?k87joz') format('woff'),
-		url('fonts/edicons.svg?k87joz#edicons') format('svg');
+	src:url('fonts/edicons.eot?r370wa');
+	src:url('fonts/edicons.eot?r370wa#iefix') format('embedded-opentype'),
+		url('fonts/edicons.ttf?r370wa') format('truetype'),
+		url('fonts/edicons.woff?r370wa') format('woff'),
+		url('fonts/edicons.svg?r370wa#edicons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,6 +24,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.edicons-bullet-black:before {
+	content: "\e90a";
+}
+.edicons-bullet-white:before {
+	content: "\e90b";
+}
 .edicons-classroom:before {
 	content: "\e601";
 }
