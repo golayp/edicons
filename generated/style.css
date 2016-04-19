@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'edicons';
-    src:    url('fonts/edicons.eot?odalcr');
-    src:    url('fonts/edicons.eot?odalcr#iefix') format('embedded-opentype'),
-        url('fonts/edicons.ttf?odalcr') format('truetype'),
-        url('fonts/edicons.woff?odalcr') format('woff'),
-        url('fonts/edicons.svg?odalcr#edicons') format('svg');
+    src:    url('fonts/edicons.eot?z2rpn9');
+    src:    url('fonts/edicons.eot?z2rpn9#iefix') format('embedded-opentype'),
+        url('fonts/edicons.ttf?z2rpn9') format('truetype'),
+        url('fonts/edicons.woff?z2rpn9') format('woff'),
+        url('fonts/edicons.svg?z2rpn9#edicons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -98,6 +98,63 @@
 }
 .edicons-sense-touch:before {
     content: "\e905";
+}
+.edicons-shape-airplane:before {
+    content: "\e912";
+}
+.edicons-shape-circle:before {
+    content: "\e913";
+}
+.edicons-shape-cloud:before {
+    content: "\e914";
+}
+.edicons-shape-clubs:before {
+    content: "\e915";
+}
+.edicons-shape-cross:before {
+    content: "\e916";
+}
+.edicons-shape-diamonds:before {
+    content: "\e917";
+}
+.edicons-shape-flag:before {
+    content: "\e918";
+}
+.edicons-shape-heart:before {
+    content: "\e919";
+}
+.edicons-shape-mug:before {
+    content: "\e91a";
+}
+.edicons-shape-pentagone:before {
+    content: "\e91b";
+}
+.edicons-shape-power:before {
+    content: "\e91c";
+}
+.edicons-shape-power-cord:before {
+    content: "\e91d";
+}
+.edicons-shape-rocket:before {
+    content: "\e91e";
+}
+.edicons-shape-spades:before {
+    content: "\e91f";
+}
+.edicons-shape-spiral:before {
+    content: "\e920";
+}
+.edicons-shape-square:before {
+    content: "\e921";
+}
+.edicons-shape-star:before {
+    content: "\e922";
+}
+.edicons-shape-triangle:before {
+    content: "\e923";
+}
+.edicons-shape-truck:before {
+    content: "\e924";
 }
 .edicons-smile-happy:before {
     content: "\e906";
