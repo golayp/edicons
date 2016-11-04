@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'edicons';
-  src:  url('fonts/edicons.eot?wcbtyl');
-  src:  url('fonts/edicons.eot?wcbtyl#iefix') format('embedded-opentype'),
-    url('fonts/edicons.ttf?wcbtyl') format('truetype'),
-    url('fonts/edicons.woff?wcbtyl') format('woff'),
-    url('fonts/edicons.svg?wcbtyl#edicons') format('svg');
+  src:  url('fonts/edicons.eot?zeffl2');
+  src:  url('fonts/edicons.eot?zeffl2#iefix') format('embedded-opentype'),
+    url('fonts/edicons.ttf?zeffl2') format('truetype'),
+    url('fonts/edicons.woff?zeffl2') format('woff'),
+    url('fonts/edicons.svg?zeffl2#edicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -25,240 +25,240 @@
 }
 
 .edicons-bullet-black:before {
-  content: "\e90a";
-}
-.edicons-bullet-white:before {
-  content: "\e90b";
-}
-.edicons-classroom:before {
-  content: "\e601";
-}
-.edicons-cycle-1:before {
-  content: "\e602";
-}
-.edicons-cycle-2:before {
-  content: "\e603";
-}
-.edicons-cycle-3:before {
-  content: "\e604";
-}
-.edicons-discipline-citizenship:before {
-  content: "\e605";
-}
-.edicons-discipline-geography:before {
-  content: "\e606";
-}
-.edicons-discipline-healthwellbeing:before {
-  content: "\e607";
-}
-.edicons-discipline-history:before {
-  content: "\e608";
-}
-.edicons-discipline-manualactivities:before {
-  content: "\e609";
-}
-.edicons-discipline-mathematics:before {
-  content: "\e60a";
-}
-.edicons-discipline-mitic:before {
-  content: "\e60b";
-}
-.edicons-discipline-music:before {
-  content: "\e60c";
-}
-.edicons-discipline-nutrition:before {
-  content: "\e60d";
-}
-.edicons-discipline-sciences:before {
-  content: "\e60e";
-}
-.edicons-discipline-sport:before {
-  content: "\e60f";
-}
-.edicons-discipline-visualarts:before {
-  content: "\e610";
-}
-.edicons-learning:before {
-  content: "\e611";
-}
-.edicons-learningoptional:before {
-  content: "\e612";
-}
-.edicons-sense-hearing:before {
   content: "\e900";
 }
-.edicons-sense-sight:before {
+.edicons-bullet-white:before {
   content: "\e901";
 }
-.edicons-sense-smell:before {
-  content: "\e903";
-}
-.edicons-sense-taste:before {
-  content: "\e904";
-}
-.edicons-sense-touch:before {
-  content: "\e905";
-}
-.edicons-shape-airplane:before {
-  content: "\e912";
-}
-.edicons-shape-circle:before {
-  content: "\e913";
-}
-.edicons-shape-cloud:before {
-  content: "\e914";
-}
-.edicons-shape-clubs:before {
-  content: "\e915";
-}
-.edicons-shape-cross:before {
-  content: "\e916";
-}
-.edicons-shape-diamonds:before {
-  content: "\e917";
-}
-.edicons-shape-flag:before {
-  content: "\e918";
-}
-.edicons-shape-heart:before {
-  content: "\e919";
-}
-.edicons-shape-mug:before {
-  content: "\e91a";
-}
-.edicons-shape-pentagone:before {
-  content: "\e91b";
-}
-.edicons-shape-power:before {
-  content: "\e91c";
-}
-.edicons-shape-power-cord:before {
-  content: "\e91d";
-}
-.edicons-shape-rocket:before {
-  content: "\e91e";
-}
-.edicons-shape-spades:before {
-  content: "\e91f";
-}
-.edicons-shape-spiral:before {
-  content: "\e920";
-}
-.edicons-shape-square:before {
-  content: "\e921";
-}
-.edicons-shape-star:before {
-  content: "\e922";
-}
-.edicons-shape-triangle:before {
-  content: "\e923";
-}
-.edicons-shape-truck:before {
-  content: "\e924";
-}
-.edicons-smile-happy:before {
-  content: "\e906";
-}
-.edicons-smile-happy-white:before {
+.edicons-classroom:before {
   content: "\e902";
 }
-.edicons-smile-neutral:before {
+.edicons-cycle-1:before {
+  content: "\e903";
+}
+.edicons-cycle-2:before {
+  content: "\e904";
+}
+.edicons-cycle-3:before {
+  content: "\e905";
+}
+.edicons-discipline-citizenship:before {
+  content: "\e906";
+}
+.edicons-discipline-geography:before {
   content: "\e907";
 }
-.edicons-smile-neutral-white:before {
-  content: "\e90c";
-}
-.edicons-smile-sad:before {
+.edicons-discipline-healthwellbeing:before {
   content: "\e908";
 }
-.edicons-smile-sad-white:before {
-  content: "\e90d";
-}
-.edicons-studentf:before {
-  content: "\e613";
-}
-.edicons-studentm:before {
-  content: "\e614";
-}
-.edicons-teacherf:before {
-  content: "\e615";
-}
-.edicons-teacherm:before {
-  content: "\e616";
-}
-.edicons-tip:before {
+.edicons-discipline-history:before {
   content: "\e909";
 }
-.edicons-tool-eraser:before {
-  content: "\e61d";
+.edicons-discipline-manualactivities:before {
+  content: "\e90a";
 }
-.edicons-tool-pen:before {
-  content: "\e61e";
+.edicons-discipline-mathematics:before {
+  content: "\e90b";
 }
-.edicons-tool-pencil:before {
-  content: "\e61f";
+.edicons-discipline-mitic:before {
+  content: "\e90c";
 }
-.edicons-tool-stab:before {
-  content: "\e620";
+.edicons-discipline-music:before {
+  content: "\e90d";
 }
-.edicons-visualidentity-ch:before {
-  content: "\e617";
-}
-.edicons-visualidentity-choix11:before {
-  content: "\e927";
-}
-.edicons-visualidentity-common:before {
+.edicons-discipline-nutrition:before {
   content: "\e90e";
 }
-.edicons-visualidentity-e2sso:before {
+.edicons-discipline-sciences:before {
   content: "\e90f";
 }
-.edicons-visualidentity-ec:before {
-  content: "\e600";
-}
-.edicons-visualidentity-er:before {
-  content: "\e622";
-}
-.edicons-visualidentity-gu:before {
-  content: "\e911";
-}
-.edicons-visualidentity-icar:before {
-  content: "\e623";
-}
-.edicons-visualidentity-iclasse:before {
-  content: "\e626";
-}
-.edicons-visualidentity-load:before {
+.edicons-discipline-sport:before {
   content: "\e910";
 }
-.edicons-visualidentity-ne:before {
-  content: "\e618";
+.edicons-discipline-visualarts:before {
+  content: "\e911";
 }
-.edicons-visualidentity-neapp:before {
-  content: "\e619";
+.edicons-learning:before {
+  content: "\e912";
 }
-.edicons-visualidentity-per:before {
-  content: "\e61a";
+.edicons-learningoptional:before {
+  content: "\e913";
 }
-.edicons-visualidentity-perception:before {
+.edicons-sense-hearing:before {
+  content: "\e914";
+}
+.edicons-sense-sight:before {
+  content: "\e915";
+}
+.edicons-sense-smell:before {
+  content: "\e916";
+}
+.edicons-sense-taste:before {
+  content: "\e917";
+}
+.edicons-sense-touch:before {
+  content: "\e918";
+}
+.edicons-shape-airplane:before {
+  content: "\e919";
+}
+.edicons-shape-circle:before {
+  content: "\e91a";
+}
+.edicons-shape-cloud:before {
+  content: "\e91b";
+}
+.edicons-shape-clubs:before {
+  content: "\e91c";
+}
+.edicons-shape-cross:before {
+  content: "\e91d";
+}
+.edicons-shape-diamonds:before {
+  content: "\e91e";
+}
+.edicons-shape-flag:before {
+  content: "\e91f";
+}
+.edicons-shape-heart:before {
+  content: "\e920";
+}
+.edicons-shape-mug:before {
+  content: "\e921";
+}
+.edicons-shape-pentagone:before {
+  content: "\e922";
+}
+.edicons-shape-power:before {
+  content: "\e923";
+}
+.edicons-shape-power-cord:before {
+  content: "\e924";
+}
+.edicons-shape-rocket:before {
   content: "\e925";
 }
-.edicons-visualidentity-phoenix:before {
-  content: "\e625";
-}
-.edicons-visualidentity-rpn:before {
-  content: "\e61b";
-}
-.edicons-visualidentity-rpnapp:before {
-  content: "\e61c";
-}
-.edicons-visualidentity-satax:before {
+.edicons-shape-spades:before {
   content: "\e926";
 }
+.edicons-shape-spiral:before {
+  content: "\e927";
+}
+.edicons-shape-square:before {
+  content: "\e928";
+}
+.edicons-shape-star:before {
+  content: "\e929";
+}
+.edicons-shape-triangle:before {
+  content: "\e92a";
+}
+.edicons-shape-truck:before {
+  content: "\e92b";
+}
+.edicons-smile-happy:before {
+  content: "\e92c";
+}
+.edicons-smile-happy-white:before {
+  content: "\e92d";
+}
+.edicons-smile-neutral:before {
+  content: "\e92e";
+}
+.edicons-smile-neutral-white:before {
+  content: "\e92f";
+}
+.edicons-smile-sad:before {
+  content: "\e930";
+}
+.edicons-smile-sad-white:before {
+  content: "\e931";
+}
+.edicons-studentf:before {
+  content: "\e932";
+}
+.edicons-studentm:before {
+  content: "\e933";
+}
+.edicons-teacherf:before {
+  content: "\e934";
+}
+.edicons-teacherm:before {
+  content: "\e935";
+}
+.edicons-tip:before {
+  content: "\e936";
+}
+.edicons-tool-eraser:before {
+  content: "\e937";
+}
+.edicons-tool-pen:before {
+  content: "\e938";
+}
+.edicons-tool-pencil:before {
+  content: "\e939";
+}
+.edicons-tool-stab:before {
+  content: "\e93a";
+}
+.edicons-visualidentity-ch:before {
+  content: "\e93b";
+}
+.edicons-visualidentity-choix11:before {
+  content: "\e93c";
+}
+.edicons-visualidentity-common:before {
+  content: "\e93d";
+}
+.edicons-visualidentity-e2sso:before {
+  content: "\e93e";
+}
+.edicons-visualidentity-ec:before {
+  content: "\e93f";
+}
+.edicons-visualidentity-folio:before {
+  content: "\e940";
+}
+.edicons-visualidentity-gu:before {
+  content: "\e941";
+}
+.edicons-visualidentity-icar:before {
+  content: "\e942";
+}
+.edicons-visualidentity-iclasse:before {
+  content: "\e943";
+}
+.edicons-visualidentity-load:before {
+  content: "\e944";
+}
+.edicons-visualidentity-ne:before {
+  content: "\e945";
+}
+.edicons-visualidentity-neapp:before {
+  content: "\e946";
+}
+.edicons-visualidentity-per:before {
+  content: "\e947";
+}
+.edicons-visualidentity-perception:before {
+  content: "\e948";
+}
+.edicons-visualidentity-phoenix:before {
+  content: "\e949";
+}
+.edicons-visualidentity-rpn:before {
+  content: "\e94a";
+}
+.edicons-visualidentity-rpnapp:before {
+  content: "\e94b";
+}
+.edicons-visualidentity-satax:before {
+  content: "\e94c";
+}
 .edicons-visualidentity-sien:before {
-  content: "\e621";
+  content: "\e94d";
 }
 .edicons-visualidentity-tcs:before {
-  content: "\e624";
+  content: "\e94e";
 }
 
