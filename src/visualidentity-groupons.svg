@@ -15,8 +15,8 @@
    id="svg4271"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="visualidentity-satax.svg"
-   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-satax.png"
+   sodipodi:docname="visualidentity-groupons.svg"
+   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-groupons.png"
    inkscape:export-xdpi="540"
    inkscape:export-ydpi="540">
   <defs
@@ -100,54 +100,6 @@
          width="232.938"
          height="157.803" />
     </defs>
-    <linearGradient
-       id="SVGID_3_"
-       gradientUnits="userSpaceOnUse"
-       x1="423.79391"
-       y1="290.0405"
-       x2="434.30521"
-       y2="276.55899">
-      <stop
-         offset="0"
-         style="stop-color:#6299BE"
-         id="stop26" />
-      <stop
-         offset="1"
-         style="stop-color:#3B80AE"
-         id="stop28" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_2_-09"
-       gradientUnits="userSpaceOnUse"
-       x1="420.64011"
-       y1="293.1777"
-       x2="388.9137"
-       y2="300.50229">
-      <stop
-         offset="0"
-         style="stop-color:#89B5D0"
-         id="stop17" />
-      <stop
-         offset="1"
-         style="stop-color:#6BA2C4"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_1_-4"
-       gradientUnits="userSpaceOnUse"
-       x1="423.02151"
-       y1="294.87839"
-       x2="435.91449"
-       y2="322.70029">
-      <stop
-         offset="0"
-         style="stop-color:#7690BA"
-         id="stop8" />
-      <stop
-         offset="1"
-         style="stop-color:#5474A9"
-         id="stop10" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,9 +108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-3.9834462"
-     inkscape:cy="18.122025"
+     inkscape:zoom="11.2"
+     inkscape:cx="-9.9732144"
+     inkscape:cy="13.570761"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -171,7 +123,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata4276">
@@ -190,16 +142,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-281.4375,-566.48186)">
-    <g
-       transform="translate(78.125,-105.64314)"
-       id="layer1-1"
-       inkscape:label="Layer 1"
-       style="fill:#000000">
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 20.103516 L 2 29 C 2 29.554 2.446 30 3 30 L 11.894531 30 L 29 30 C 29.1385 30 29.270906 29.972355 29.390625 29.921875 C 29.749781 29.770479 30 29.4155 30 29 L 30 11.896484 L 30 3 C 30 2.446 29.554 2 29 2 L 20.105469 2 L 3 2 z M 17.464844 5.65625 A 8.8792902 8.8792902 0 0 1 26.34375 14.537109 L 17.464844 14.537109 L 17.464844 5.65625 z M 16 7.1191406 L 16 16.001953 L 24.878906 16.001953 A 8.8792902 8.8792902 0 0 1 19.400391 24.203125 A 8.8792902 8.8792902 0 0 1 9.7207031 22.277344 A 8.8792902 8.8792902 0 0 1 7.796875 12.601562 A 8.8792902 8.8792902 0 0 1 16 7.1191406 z "
-         transform="translate(203.3125,672.125)"
-         id="rect2995" />
-    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 20.103516 L 2 29 C 2 29.554 2.446 30 3 30 L 11.894531 30 L 29 30 C 29.1385 30 29.270915 29.972375 29.390625 29.921875 C 29.749785 29.77049 30 29.4155 30 29 L 30 11.896484 L 30 3 C 30 2.446 29.554 2 29 2 L 20.105469 2 L 3 2 z M 16.265625 7.625 C 17.653275 7.625 18.951243 7.8813913 20.158203 8.3945312 C 21.177253 8.8281713 22.174711 9.5737164 23.150391 10.628906 L 21.013672 12.742188 C 19.662162 11.311177 18.086709 10.595703 16.287109 10.595703 C 14.718789 10.595703 13.404207 11.11552 12.341797 12.15625 C 11.286607 13.19698 10.757812 14.462352 10.757812 15.951172 C 10.757813 17.490592 11.3077 18.795594 12.40625 19.865234 C 13.5048 20.934874 14.859013 21.46875 16.470703 21.46875 C 17.518673 21.46875 18.401687 21.249454 19.117188 20.808594 C 19.839918 20.367724 20.420458 19.677831 20.861328 18.738281 L 17.283203 18.738281 L 17.283203 20.210938 L 12.285156 17.324219 L 17.283203 14.439453 L 17.283203 15.886719 L 24.265625 15.886719 L 24.287109 16.558594 C 24.287109 17.953464 23.925855 19.275071 23.203125 20.525391 C 22.480395 21.775721 21.545634 22.730982 20.396484 23.388672 C 19.247344 24.046352 17.898212 24.375 16.351562 24.375 C 14.696513 24.375 13.218879 24.016281 11.917969 23.300781 C 10.624279 22.578051 9.5987037 21.552476 8.8398438 20.222656 C 8.0881937 18.892826 7.7128906 17.457379 7.7128906 15.917969 C 7.7128906 13.807589 8.4098075 11.973209 9.8046875 10.412109 C 11.459738 8.5546998 13.613205 7.625 16.265625 7.625 z "
+       transform="translate(281.4375,566.48186)"
+       id="rect2995"
+       inkscape:export-filename="C:\Users\Golayp\Desktop\rect2995.png"
+       inkscape:export-xdpi="540"
+       inkscape:export-ydpi="540" />
   </g>
 </svg>

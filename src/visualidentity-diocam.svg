@@ -15,8 +15,8 @@
    id="svg4271"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="visualidentity-satax.svg"
-   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-satax.png"
+   sodipodi:docname="visualidentity-diocam.svg"
+   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-diocam.png"
    inkscape:export-xdpi="540"
    inkscape:export-ydpi="540">
   <defs
@@ -100,54 +100,6 @@
          width="232.938"
          height="157.803" />
     </defs>
-    <linearGradient
-       id="SVGID_3_"
-       gradientUnits="userSpaceOnUse"
-       x1="423.79391"
-       y1="290.0405"
-       x2="434.30521"
-       y2="276.55899">
-      <stop
-         offset="0"
-         style="stop-color:#6299BE"
-         id="stop26" />
-      <stop
-         offset="1"
-         style="stop-color:#3B80AE"
-         id="stop28" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_2_-09"
-       gradientUnits="userSpaceOnUse"
-       x1="420.64011"
-       y1="293.1777"
-       x2="388.9137"
-       y2="300.50229">
-      <stop
-         offset="0"
-         style="stop-color:#89B5D0"
-         id="stop17" />
-      <stop
-         offset="1"
-         style="stop-color:#6BA2C4"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_1_-4"
-       gradientUnits="userSpaceOnUse"
-       x1="423.02151"
-       y1="294.87839"
-       x2="435.91449"
-       y2="322.70029">
-      <stop
-         offset="0"
-         style="stop-color:#7690BA"
-         id="stop8" />
-      <stop
-         offset="1"
-         style="stop-color:#5474A9"
-         id="stop10" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,9 +108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-3.9834462"
-     inkscape:cy="18.122025"
+     inkscape:zoom="5.6"
+     inkscape:cx="-11.66956"
+     inkscape:cy="13.570761"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,10 +120,10 @@
      fit-margin-bottom="0"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-4"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata4276">
@@ -181,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,16 +142,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-281.4375,-566.48186)">
-    <g
-       transform="translate(78.125,-105.64314)"
-       id="layer1-1"
-       inkscape:label="Layer 1"
-       style="fill:#000000">
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 20.103516 L 2 29 C 2 29.554 2.446 30 3 30 L 11.894531 30 L 29 30 C 29.1385 30 29.270906 29.972355 29.390625 29.921875 C 29.749781 29.770479 30 29.4155 30 29 L 30 11.896484 L 30 3 C 30 2.446 29.554 2 29 2 L 20.105469 2 L 3 2 z M 17.464844 5.65625 A 8.8792902 8.8792902 0 0 1 26.34375 14.537109 L 17.464844 14.537109 L 17.464844 5.65625 z M 16 7.1191406 L 16 16.001953 L 24.878906 16.001953 A 8.8792902 8.8792902 0 0 1 19.400391 24.203125 A 8.8792902 8.8792902 0 0 1 9.7207031 22.277344 A 8.8792902 8.8792902 0 0 1 7.796875 12.601562 A 8.8792902 8.8792902 0 0 1 16 7.1191406 z "
-         transform="translate(203.3125,672.125)"
-         id="rect2995" />
-    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 20.103516 L 2 29 C 2 29.554 2.446 30 3 30 L 11.894531 30 L 29 30 C 29.1385 30 29.270915 29.972375 29.390625 29.921875 C 29.749785 29.770485 30 29.4155 30 29 L 30 11.896484 L 30 3 C 30 2.446 29.554 2 29 2 L 20.105469 2 L 3 2 z M 16.160156 7.7148438 A 7.9465465 7.9465465 0 0 1 17.265625 7.8007812 L 17.265625 12.994141 L 20.9375 9.3222656 A 7.9465465 7.9465465 0 0 1 22.5 10.882812 L 18.828125 14.556641 L 24.021484 14.556641 A 7.9465465 7.9465465 0 0 1 24.107422 15.660156 A 7.9465465 7.9465465 0 0 1 24.021484 16.765625 L 18.828125 16.765625 L 22.5 20.4375 A 7.9465465 7.9465465 0 0 1 20.939453 22.001953 L 17.265625 18.328125 L 17.265625 23.521484 A 7.9465465 7.9465465 0 0 1 16.160156 23.607422 A 7.9465465 7.9465465 0 0 1 15.056641 23.521484 L 15.056641 18.328125 L 11.384766 22 A 7.9465465 7.9465465 0 0 1 9.8203125 20.439453 L 13.494141 16.765625 L 8.3007812 16.765625 A 7.9465465 7.9465465 0 0 1 8.2128906 15.660156 A 7.9465465 7.9465465 0 0 1 8.3007812 14.556641 L 13.494141 14.556641 L 9.8222656 10.884766 A 7.9465465 7.9465465 0 0 1 11.382812 9.3203125 L 15.056641 12.994141 L 15.056641 7.8007812 A 7.9465465 7.9465465 0 0 1 16.160156 7.7148438 z "
+       transform="translate(281.4375,566.48186)"
+       id="rect2995" />
   </g>
 </svg>

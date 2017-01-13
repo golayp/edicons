@@ -15,8 +15,8 @@
    id="svg4271"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="visualidentity-satax.svg"
-   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-satax.png"
+   sodipodi:docname="visualidentity-datatransmock.svg"
+   inkscape:export-filename="C:\Users\Golayp\Desktop\visualidentity-datatransmock.png"
    inkscape:export-xdpi="540"
    inkscape:export-ydpi="540">
   <defs
@@ -100,54 +100,6 @@
          width="232.938"
          height="157.803" />
     </defs>
-    <linearGradient
-       id="SVGID_3_"
-       gradientUnits="userSpaceOnUse"
-       x1="423.79391"
-       y1="290.0405"
-       x2="434.30521"
-       y2="276.55899">
-      <stop
-         offset="0"
-         style="stop-color:#6299BE"
-         id="stop26" />
-      <stop
-         offset="1"
-         style="stop-color:#3B80AE"
-         id="stop28" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_2_-09"
-       gradientUnits="userSpaceOnUse"
-       x1="420.64011"
-       y1="293.1777"
-       x2="388.9137"
-       y2="300.50229">
-      <stop
-         offset="0"
-         style="stop-color:#89B5D0"
-         id="stop17" />
-      <stop
-         offset="1"
-         style="stop-color:#6BA2C4"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
-       id="SVGID_1_-4"
-       gradientUnits="userSpaceOnUse"
-       x1="423.02151"
-       y1="294.87839"
-       x2="435.91449"
-       y2="322.70029">
-      <stop
-         offset="0"
-         style="stop-color:#7690BA"
-         id="stop8" />
-      <stop
-         offset="1"
-         style="stop-color:#5474A9"
-         id="stop10" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -156,9 +108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="-3.9834462"
-     inkscape:cy="18.122025"
+     inkscape:zoom="2.8"
+     inkscape:cx="24.095949"
+     inkscape:cy="13.570761"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -171,7 +123,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata4276">
@@ -190,16 +142,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-281.4375,-566.48186)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 284.4375,568.48186 c -0.554,0 -1,0.446 -1,1 l 0,17.10352 0,8.89648 c 0,0.554 0.446,1 1,1 l 8.89453,0 17.10547,0 c 0.1385,0 0.27091,-0.0276 0.39062,-0.0781 0.35916,-0.15138 0.60938,-0.50637 0.60938,-0.92187 l 0,-17.10352 0,-8.89648 c 0,-0.554 -0.446,-1 -1,-1 l -8.89453,0 -17.10547,0 z m 13,3.64258 a 10.357142,10.357142 0 0 1 10.35742,10.35742 10.357142,10.357142 0 0 1 -10.35742,10.35742 10.357142,10.357142 0 0 1 -10.35742,-10.35742 10.357142,10.357142 0 0 1 10.35742,-10.35742 z m 5.70508,3.19726 c -1.09343,0 -2.43555,0.3711 -2.43555,0.3711 l -0.80078,3.55664 c -1.9427,-1.04541 -5.04946,-0.20895 -6.58594,2.04883 -1.5124,2.13855 -2.05483,4.91358 -1.14648,6.89062 0.88323,1.8069 3.62452,1.8479 5.58984,0.57227 -0.55535,1.02084 2.13679,0.80543 2.29883,0.24609 l 3.08008,-13.68555 z m -5.54102,5.70703 c 0.5946,0.0595 1.64758,0.01 1.77539,0.57227 -0.37019,1.62349 -0.72506,3.25736 -1.10547,4.875 -1.38289,0.99871 -3.90789,1.48088 -4.05273,-0.375 -0.14155,-1.84597 0.76046,-5.13418 3.38281,-5.07227 z"
+       id="rect2995"
+       inkscape:connector-curvature="0" />
     <g
-       transform="translate(78.125,-105.64314)"
-       id="layer1-1"
-       inkscape:label="Layer 1"
-       style="fill:#000000">
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:none"
-         d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 20.103516 L 2 29 C 2 29.554 2.446 30 3 30 L 11.894531 30 L 29 30 C 29.1385 30 29.270906 29.972355 29.390625 29.921875 C 29.749781 29.770479 30 29.4155 30 29 L 30 11.896484 L 30 3 C 30 2.446 29.554 2 29 2 L 20.105469 2 L 3 2 z M 17.464844 5.65625 A 8.8792902 8.8792902 0 0 1 26.34375 14.537109 L 17.464844 14.537109 L 17.464844 5.65625 z M 16 7.1191406 L 16 16.001953 L 24.878906 16.001953 A 8.8792902 8.8792902 0 0 1 19.400391 24.203125 A 8.8792902 8.8792902 0 0 1 9.7207031 22.277344 A 8.8792902 8.8792902 0 0 1 7.796875 12.601562 A 8.8792902 8.8792902 0 0 1 16 7.1191406 z "
-         transform="translate(203.3125,672.125)"
-         id="rect2995" />
-    </g>
+       transform="matrix(0.18611992,0,-0.04190883,0.18611992,252.60332,472.78513)"
+       style="font-style:normal;font-weight:normal;font-size:94.15428925px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text8076" />
   </g>
 </svg>
