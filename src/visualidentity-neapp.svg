@@ -13,7 +13,7 @@
    height="32"
    id="svg4271"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="visualidentity-neapp.svg">
   <defs
      id="defs4273">
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="-75.663803"
-     inkscape:cy="21.080694"
+     inkscape:zoom="11.2"
+     inkscape:cx="-14.439758"
+     inkscape:cy="24.652123"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,12 +91,12 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="1147"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata4276">
@@ -116,9 +116,9 @@
      id="layer1"
      transform="translate(-281.4375,-566.48186)">
     <path
-       style="fill:#000000;stroke:none"
-       d="M 16 2 C 8.2680137 2 2 8.2680137 2 16 C 2 23.731986 8.2680137 30 16 30 C 23.731986 30 30 23.731986 30 16 C 30 8.2680137 23.731986 2 16 2 z M 8.9375 8.71875 L 14.59375 8.71875 L 11.59375 23.28125 L 5.9375 23.28125 L 8.9375 8.71875 z M 20.40625 8.71875 L 26.0625 8.71875 L 23.0625 23.28125 L 17.40625 23.28125 L 20.40625 8.71875 z M 22.5 9.59375 L 22.21875 10.90625 L 20.9375 10.90625 L 20.71875 12.0625 L 22 12.0625 L 21.71875 13.34375 L 22.84375 13.34375 L 23.125 12.0625 L 24.40625 12.0625 L 24.65625 10.90625 L 23.34375 10.90625 L 23.625 9.59375 L 22.5 9.59375 z "
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 29 C 2 29.554 2.446 30 3 30 L 29 30 C 29.554 30 30 29.554 30 29 L 30 3 C 30 2.446 29.554 2 29 2 L 3 2 z M 8.9375 8.71875 L 14.59375 8.71875 L 11.59375 23.28125 L 5.9375 23.28125 L 8.9375 8.71875 z M 20.40625 8.71875 L 26.0625 8.71875 L 23.0625 23.28125 L 17.40625 23.28125 L 20.40625 8.71875 z M 22.5 9.59375 L 22.21875 10.90625 L 20.9375 10.90625 L 20.71875 12.0625 L 22 12.0625 L 21.71875 13.34375 L 22.84375 13.34375 L 23.125 12.0625 L 24.40625 12.0625 L 24.65625 10.90625 L 23.34375 10.90625 L 23.625 9.59375 L 22.5 9.59375 z "
        transform="translate(281.4375,566.48186)"
-       id="path2987" />
+       id="rect2995" />
   </g>
 </svg>
