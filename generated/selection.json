@@ -25,7 +25,7 @@
         {}
       ],
       "properties": {
-        "order": 326,
+        "order": 339,
         "id": 78,
         "name": "bullet-black",
         "prevSize": 32,
@@ -59,7 +59,7 @@
         {}
       ],
       "properties": {
-        "order": 240,
+        "order": 340,
         "id": 77,
         "name": "bullet-white",
         "prevSize": 32,
@@ -93,7 +93,7 @@
         {}
       ],
       "properties": {
-        "order": 241,
+        "order": 341,
         "id": 76,
         "name": "classroom",
         "prevSize": 32,
@@ -127,7 +127,7 @@
         {}
       ],
       "properties": {
-        "order": 242,
+        "order": 342,
         "id": 75,
         "name": "cycle-1",
         "prevSize": 32,
@@ -161,7 +161,7 @@
         {}
       ],
       "properties": {
-        "order": 243,
+        "order": 343,
         "id": 74,
         "name": "cycle-2",
         "prevSize": 32,
@@ -195,7 +195,7 @@
         {}
       ],
       "properties": {
-        "order": 244,
+        "order": 344,
         "id": 73,
         "name": "cycle-3",
         "prevSize": 32,
@@ -229,7 +229,7 @@
         {}
       ],
       "properties": {
-        "order": 245,
+        "order": 345,
         "id": 72,
         "name": "discipline-citizenship",
         "prevSize": 32,
@@ -263,7 +263,7 @@
         {}
       ],
       "properties": {
-        "order": 246,
+        "order": 346,
         "id": 71,
         "name": "discipline-geography",
         "prevSize": 32,
@@ -297,7 +297,7 @@
         {}
       ],
       "properties": {
-        "order": 247,
+        "order": 347,
         "id": 70,
         "name": "discipline-healthwellbeing",
         "prevSize": 32,
@@ -331,7 +331,7 @@
         {}
       ],
       "properties": {
-        "order": 248,
+        "order": 348,
         "id": 69,
         "name": "discipline-history",
         "prevSize": 32,
@@ -365,7 +365,7 @@
         {}
       ],
       "properties": {
-        "order": 249,
+        "order": 349,
         "id": 79,
         "name": "discipline-manualactivities",
         "prevSize": 32,
@@ -399,7 +399,7 @@
         {}
       ],
       "properties": {
-        "order": 250,
+        "order": 350,
         "id": 67,
         "name": "discipline-mathematics",
         "prevSize": 32,
@@ -433,7 +433,7 @@
         {}
       ],
       "properties": {
-        "order": 251,
+        "order": 351,
         "id": 66,
         "name": "discipline-mitic",
         "prevSize": 32,
@@ -467,7 +467,7 @@
         {}
       ],
       "properties": {
-        "order": 252,
+        "order": 352,
         "id": 65,
         "name": "discipline-music",
         "prevSize": 32,
@@ -501,7 +501,7 @@
         {}
       ],
       "properties": {
-        "order": 253,
+        "order": 353,
         "id": 64,
         "name": "discipline-nutrition",
         "prevSize": 32,
@@ -535,7 +535,7 @@
         {}
       ],
       "properties": {
-        "order": 254,
+        "order": 354,
         "id": 63,
         "name": "discipline-sciences",
         "prevSize": 32,
@@ -569,7 +569,7 @@
         {}
       ],
       "properties": {
-        "order": 255,
+        "order": 355,
         "id": 62,
         "name": "discipline-sport",
         "prevSize": 32,
@@ -603,7 +603,7 @@
         {}
       ],
       "properties": {
-        "order": 256,
+        "order": 356,
         "id": 61,
         "name": "discipline-visualarts",
         "prevSize": 32,
@@ -637,7 +637,7 @@
         {}
       ],
       "properties": {
-        "order": 257,
+        "order": 357,
         "id": 60,
         "name": "learning",
         "prevSize": 32,
@@ -671,7 +671,7 @@
         {}
       ],
       "properties": {
-        "order": 258,
+        "order": 358,
         "id": 59,
         "name": "learningoptional",
         "prevSize": 32,
@@ -705,7 +705,7 @@
         {}
       ],
       "properties": {
-        "order": 259,
+        "order": 359,
         "id": 58,
         "name": "sense-hearing",
         "prevSize": 32,
@@ -739,7 +739,7 @@
         {}
       ],
       "properties": {
-        "order": 260,
+        "order": 360,
         "id": 57,
         "name": "sense-sight",
         "prevSize": 32,
@@ -773,7 +773,7 @@
         {}
       ],
       "properties": {
-        "order": 261,
+        "order": 361,
         "id": 56,
         "name": "sense-smell",
         "prevSize": 32,
@@ -807,7 +807,7 @@
         {}
       ],
       "properties": {
-        "order": 262,
+        "order": 362,
         "id": 55,
         "name": "sense-taste",
         "prevSize": 32,
@@ -841,7 +841,7 @@
         {}
       ],
       "properties": {
-        "order": 263,
+        "order": 363,
         "id": 54,
         "name": "sense-touch",
         "prevSize": 32,
@@ -875,7 +875,7 @@
         {}
       ],
       "properties": {
-        "order": 264,
+        "order": 364,
         "id": 53,
         "name": "shape-airplane",
         "prevSize": 32,
@@ -909,7 +909,7 @@
         {}
       ],
       "properties": {
-        "order": 265,
+        "order": 365,
         "id": 52,
         "name": "shape-circle",
         "prevSize": 32,
@@ -943,7 +943,7 @@
         {}
       ],
       "properties": {
-        "order": 266,
+        "order": 366,
         "id": 51,
         "name": "shape-cloud",
         "prevSize": 32,
@@ -977,7 +977,7 @@
         {}
       ],
       "properties": {
-        "order": 267,
+        "order": 367,
         "id": 50,
         "name": "shape-clubs",
         "prevSize": 32,
@@ -1011,7 +1011,7 @@
         {}
       ],
       "properties": {
-        "order": 268,
+        "order": 368,
         "id": 49,
         "name": "shape-cross",
         "prevSize": 32,
@@ -1045,7 +1045,7 @@
         {}
       ],
       "properties": {
-        "order": 269,
+        "order": 369,
         "id": 48,
         "name": "shape-diamonds",
         "prevSize": 32,
@@ -1079,7 +1079,7 @@
         {}
       ],
       "properties": {
-        "order": 270,
+        "order": 370,
         "id": 47,
         "name": "shape-flag",
         "prevSize": 32,
@@ -1113,7 +1113,7 @@
         {}
       ],
       "properties": {
-        "order": 271,
+        "order": 371,
         "id": 46,
         "name": "shape-heart",
         "prevSize": 32,
@@ -1147,7 +1147,7 @@
         {}
       ],
       "properties": {
-        "order": 272,
+        "order": 372,
         "id": 45,
         "name": "shape-mug",
         "prevSize": 32,
@@ -1181,7 +1181,7 @@
         {}
       ],
       "properties": {
-        "order": 273,
+        "order": 373,
         "id": 44,
         "name": "shape-pentagone",
         "prevSize": 32,
@@ -1215,7 +1215,7 @@
         {}
       ],
       "properties": {
-        "order": 274,
+        "order": 374,
         "id": 43,
         "name": "shape-power",
         "prevSize": 32,
@@ -1249,7 +1249,7 @@
         {}
       ],
       "properties": {
-        "order": 275,
+        "order": 375,
         "id": 42,
         "name": "shape-power-cord",
         "prevSize": 32,
@@ -1283,7 +1283,7 @@
         {}
       ],
       "properties": {
-        "order": 276,
+        "order": 376,
         "id": 41,
         "name": "shape-rocket",
         "prevSize": 32,
@@ -1317,7 +1317,7 @@
         {}
       ],
       "properties": {
-        "order": 277,
+        "order": 377,
         "id": 40,
         "name": "shape-spades",
         "prevSize": 32,
@@ -1351,7 +1351,7 @@
         {}
       ],
       "properties": {
-        "order": 278,
+        "order": 378,
         "id": 39,
         "name": "shape-spiral",
         "prevSize": 32,
@@ -1385,7 +1385,7 @@
         {}
       ],
       "properties": {
-        "order": 279,
+        "order": 379,
         "id": 38,
         "name": "shape-square",
         "prevSize": 32,
@@ -1419,7 +1419,7 @@
         {}
       ],
       "properties": {
-        "order": 280,
+        "order": 380,
         "id": 37,
         "name": "shape-star",
         "prevSize": 32,
@@ -1453,7 +1453,7 @@
         {}
       ],
       "properties": {
-        "order": 281,
+        "order": 381,
         "id": 36,
         "name": "shape-triangle",
         "prevSize": 32,
@@ -1487,7 +1487,7 @@
         {}
       ],
       "properties": {
-        "order": 282,
+        "order": 382,
         "id": 35,
         "name": "shape-truck",
         "prevSize": 32,
@@ -1521,7 +1521,7 @@
         {}
       ],
       "properties": {
-        "order": 283,
+        "order": 383,
         "id": 34,
         "name": "smile-happy",
         "prevSize": 32,
@@ -1555,7 +1555,7 @@
         {}
       ],
       "properties": {
-        "order": 284,
+        "order": 384,
         "id": 33,
         "name": "smile-happy-white",
         "prevSize": 32,
@@ -1589,7 +1589,7 @@
         {}
       ],
       "properties": {
-        "order": 285,
+        "order": 385,
         "id": 32,
         "name": "smile-neutral",
         "prevSize": 32,
@@ -1623,7 +1623,7 @@
         {}
       ],
       "properties": {
-        "order": 286,
+        "order": 386,
         "id": 31,
         "name": "smile-neutral-white",
         "prevSize": 32,
@@ -1657,7 +1657,7 @@
         {}
       ],
       "properties": {
-        "order": 287,
+        "order": 387,
         "id": 30,
         "name": "smile-sad",
         "prevSize": 32,
@@ -1691,7 +1691,7 @@
         {}
       ],
       "properties": {
-        "order": 288,
+        "order": 388,
         "id": 29,
         "name": "smile-sad-white",
         "prevSize": 32,
@@ -1725,7 +1725,7 @@
         {}
       ],
       "properties": {
-        "order": 289,
+        "order": 389,
         "id": 28,
         "name": "studentf",
         "prevSize": 32,
@@ -1759,7 +1759,7 @@
         {}
       ],
       "properties": {
-        "order": 290,
+        "order": 390,
         "id": 27,
         "name": "studentm",
         "prevSize": 32,
@@ -1793,7 +1793,7 @@
         {}
       ],
       "properties": {
-        "order": 291,
+        "order": 391,
         "id": 26,
         "name": "teacherf",
         "prevSize": 32,
@@ -1827,7 +1827,7 @@
         {}
       ],
       "properties": {
-        "order": 292,
+        "order": 392,
         "id": 25,
         "name": "teacherm",
         "prevSize": 32,
@@ -1861,7 +1861,7 @@
         {}
       ],
       "properties": {
-        "order": 293,
+        "order": 393,
         "id": 24,
         "name": "tip",
         "prevSize": 32,
@@ -1895,7 +1895,7 @@
         {}
       ],
       "properties": {
-        "order": 294,
+        "order": 394,
         "id": 23,
         "name": "tool-eraser",
         "prevSize": 32,
@@ -1929,7 +1929,7 @@
         {}
       ],
       "properties": {
-        "order": 295,
+        "order": 395,
         "id": 22,
         "name": "tool-pen",
         "prevSize": 32,
@@ -1963,7 +1963,7 @@
         {}
       ],
       "properties": {
-        "order": 296,
+        "order": 396,
         "id": 21,
         "name": "tool-pencil",
         "prevSize": 32,
@@ -2005,7 +2005,7 @@
         {}
       ],
       "properties": {
-        "order": 297,
+        "order": 397,
         "id": 20,
         "name": "tool-stab",
         "prevSize": 32,
@@ -2039,7 +2039,7 @@
         {}
       ],
       "properties": {
-        "order": 337,
+        "order": 398,
         "id": 96,
         "name": "visualidentity-api",
         "prevSize": 32,
@@ -2073,7 +2073,7 @@
         {}
       ],
       "properties": {
-        "order": 332,
+        "order": 399,
         "id": 91,
         "name": "visualidentity-archiclass",
         "prevSize": 32,
@@ -2107,7 +2107,7 @@
         {}
       ],
       "properties": {
-        "order": 328,
+        "order": 400,
         "id": 95,
         "name": "visualidentity-bpm",
         "prevSize": 32,
@@ -2141,7 +2141,7 @@
         {}
       ],
       "properties": {
-        "order": 334,
+        "order": 401,
         "id": 89,
         "name": "visualidentity-camac",
         "prevSize": 32,
@@ -2175,7 +2175,7 @@
         {}
       ],
       "properties": {
-        "order": 298,
+        "order": 402,
         "id": 19,
         "name": "visualidentity-ch",
         "prevSize": 32,
@@ -2209,7 +2209,7 @@
         {}
       ],
       "properties": {
-        "order": 299,
+        "order": 403,
         "id": 18,
         "name": "visualidentity-choix11",
         "prevSize": 32,
@@ -2243,7 +2243,7 @@
         {}
       ],
       "properties": {
-        "order": 300,
+        "order": 404,
         "id": 17,
         "name": "visualidentity-common",
         "prevSize": 32,
@@ -2277,7 +2277,7 @@
         {}
       ],
       "properties": {
-        "order": 321,
+        "order": 405,
         "id": 82,
         "name": "visualidentity-datatransmock",
         "prevSize": 32,
@@ -2311,7 +2311,7 @@
         {}
       ],
       "properties": {
-        "order": 320,
+        "order": 406,
         "id": 81,
         "name": "visualidentity-diocam",
         "prevSize": 32,
@@ -2345,7 +2345,7 @@
         {}
       ],
       "properties": {
-        "order": 301,
+        "order": 407,
         "id": 16,
         "name": "visualidentity-e2sso",
         "prevSize": 32,
@@ -2379,7 +2379,7 @@
         {}
       ],
       "properties": {
-        "order": 322,
+        "order": 408,
         "id": 83,
         "name": "visualidentity-easyrf",
         "prevSize": 32,
@@ -2413,7 +2413,7 @@
         {}
       ],
       "properties": {
-        "order": 302,
+        "order": 409,
         "id": 15,
         "name": "visualidentity-ec",
         "prevSize": 32,
@@ -2447,7 +2447,7 @@
         {}
       ],
       "properties": {
-        "order": 303,
+        "order": 410,
         "id": 14,
         "name": "visualidentity-folio",
         "prevSize": 32,
@@ -2481,7 +2481,7 @@
         {}
       ],
       "properties": {
-        "order": 330,
+        "order": 411,
         "id": 93,
         "name": "visualidentity-glados",
         "prevSize": 32,
@@ -2515,7 +2515,7 @@
         {}
       ],
       "properties": {
-        "order": 325,
+        "order": 412,
         "id": 86,
         "name": "visualidentity-groupons",
         "prevSize": 32,
@@ -2549,7 +2549,7 @@
         {}
       ],
       "properties": {
-        "order": 304,
+        "order": 413,
         "id": 13,
         "name": "visualidentity-gu",
         "prevSize": 32,
@@ -2583,7 +2583,7 @@
         {}
       ],
       "properties": {
-        "order": 324,
+        "order": 414,
         "id": 85,
         "name": "visualidentity-gusto",
         "prevSize": 32,
@@ -2617,7 +2617,7 @@
         {}
       ],
       "properties": {
-        "order": 305,
+        "order": 415,
         "id": 12,
         "name": "visualidentity-icar",
         "prevSize": 32,
@@ -2651,7 +2651,7 @@
         {}
       ],
       "properties": {
-        "order": 306,
+        "order": 416,
         "id": 11,
         "name": "visualidentity-iclasse",
         "prevSize": 32,
@@ -2685,7 +2685,7 @@
         {}
       ],
       "properties": {
-        "order": 323,
+        "order": 417,
         "id": 84,
         "name": "visualidentity-ksiop",
         "prevSize": 32,
@@ -2719,7 +2719,7 @@
         {}
       ],
       "properties": {
-        "order": 307,
+        "order": 418,
         "id": 10,
         "name": "visualidentity-load",
         "prevSize": 32,
@@ -2753,7 +2753,7 @@
         {}
       ],
       "properties": {
-        "order": 308,
+        "order": 419,
         "id": 9,
         "name": "visualidentity-ne",
         "prevSize": 32,
@@ -2787,7 +2787,7 @@
         {}
       ],
       "properties": {
-        "order": 309,
+        "order": 420,
         "id": 8,
         "name": "visualidentity-neapp",
         "prevSize": 32,
@@ -2821,7 +2821,7 @@
         {}
       ],
       "properties": {
-        "order": 331,
+        "order": 421,
         "id": 92,
         "name": "visualidentity-neapp2",
         "prevSize": 32,
@@ -2834,7 +2834,7 @@
     {
       "icon": {
         "paths": [
-          "M96 64c-17.728 0-32 14.272-32 32v832c0 17.728 14.272 32 32 32h832c17.728 0 32-14.272 32-32v-832c0-17.728-14.272-32-32-32h-832zM584.187 385.438h0.062c15.35 0.059 29.629 4.525 41.612 12.179l-0.3 485.071c-11.659 7.411-25.894 11.831-41.176 11.875-42.573-0.011-77.072-33.977-77.074-75.875-0-0.047-0-0.101-0-0.156s0-0.11 0-0.165c-1.686 0.173-3.706 0.285-5.744 0.32-42.63-0.010-77.129-33.976-77.131-75.874 0.016-11.985 2.851-23.313 7.889-33.383-25.242-12.408-42.051-37.765-42.076-66.989 0.098-1.727 0.231-3.237 0.409-4.734 0.021 0.676-0.022 0.486-0.065 0.296-0.045-29.61 16.645-54.867 41.109-67.554-4.474-9.852-7.354-21.221-7.391-33.249 0.002-41.917 34.512-75.887 77.083-75.887 0.037 0 0.074 0 0.111 0 2.025 0.016 4.005 0.106 5.964 0.269-0.283-0.056-0.283-0.1-0.283-0.144s0-0.088 0-0.132c0.002-41.87 34.465-75.822 76.995-75.868zM695.687 385.438h0.063c42.562 0.011 77.061 33.977 77.062 75.875 0 0.037 0 0.081 0 0.125s-0 0.088-0 0.132c1.699-0.152 3.701-0.243 5.722-0.257 0.041-0 0.056-0 0.071-0 42.57 0 77.081 33.97 77.083 75.875-0.016 12.033-2.875 23.406-7.951 33.506 25.061 12.458 41.727 37.713 41.764 66.802-0.052 0.536-0.074 0.729-0.097 0.922 0.148 0.865 0.238 2.384 0.282 3.914-0.010 29.321-16.794 54.675-41.386 67.345 4.386 9.818 7.2 21.138 7.2 33.104 0 0.012-0 0.023-0 0.035-0.002 41.875-34.465 75.827-76.996 75.873-2.111-0.036-4.131-0.148-6.128-0.336 0.311 0.070 0.311 0.125 0.311 0.18s-0 0.11-0 0.165c-0.002 41.896-34.512 75.866-77.083 75.866-0.015 0-0.030-0-0.045-0-15.291-0.044-29.526-4.464-41.489-12.056l0.304-485.069c11.683-7.475 25.962-11.941 41.297-12z"
+          "M96 64c-17.728 0-32 14.272-32 32v832c0 17.728 14.272 32 32 32h832c17.728 0 32-14.272 32-32v-372.187c-92.005 88.393-214.763 201.665-255.625 235-48.218 39.335-87.547 59-118 59-52.024 0-78.062-34.23-78.062-102.75 0-20.302 3.217-40.27 9.562-59.938s14.902-40.001 25.687-60.938c11.42-21.571 28.535-52.040 51.375-91.375 22.84-39.97 49.181-85.004 79-135.125-36.163 18.399-81.563 54.876-136.125 109.438-35.529 34.26-65.632 66.975-90.375 98.062-24.743 30.453-51.387 64.683-79.938 102.75-27.915 37.432-48.551 62.801-61.875 76.125-12.688 12.688-25.677 19.062-39 19.062-20.302 0-39.058-21.243-56.187-63.75s-25.688-92.034-25.688-148.5c0-34.894 3.823-62.145 11.438-81.813 8.248-19.668 24.088-47.586 47.562-83.75 43.777-67.251 81.528-116.412 113.25-147.5 31.722-31.722 62.191-47.625 91.375-47.625 20.302 0 36.508 3.521 48.562 10.5 12.689 6.979 19 17.783 19 32.375 0 6.344-1.881 12.959-5.688 19.938s-8.237 13.352-13.312 19.062c-4.439 5.71-14.273 16.817-29.5 33.313-100.242 111.028-150.375 183.009-150.375 216 0 18.399 6.008 27.625 18.062 27.625 7.613 0 22.241-12.079 43.813-36.187 22.205-24.743 50.427-56.79 84.687-96.125 34.895-39.97 75.802-81.483 122.75-124.625 47.583-43.142 101.478-84.718 161.75-124.687 33.626-23.475 61.545-35.188 83.75-35.188 10.151 0 19.984 13.959 29.5 41.875 10.151 27.915 15.25 56.137 15.25 84.688 0 13.958-13.657 35.2-40.938 63.75-111.662 124.351-167.5 210.96-167.5 259.813 0 27.281 11.107 40.875 33.313 40.875 18.399 0 42.191-9.466 71.375-28.5 23.6-15.566 117.354-97.684 187.125-156.312v-384.375c0-17.728-14.272-32-32-32h-832z"
         ],
         "attrs": [
           {}
@@ -2855,7 +2855,7 @@
         {}
       ],
       "properties": {
-        "order": 336,
+        "order": 422,
         "id": 97,
         "name": "visualidentity-nemo",
         "prevSize": 32,
@@ -2889,7 +2889,7 @@
         {}
       ],
       "properties": {
-        "order": 335,
+        "order": 423,
         "id": 94,
         "name": "visualidentity-nuget",
         "prevSize": 32,
@@ -2923,7 +2923,7 @@
         {}
       ],
       "properties": {
-        "order": 310,
+        "order": 424,
         "id": 7,
         "name": "visualidentity-per",
         "prevSize": 32,
@@ -2957,7 +2957,7 @@
         {}
       ],
       "properties": {
-        "order": 311,
+        "order": 425,
         "id": 6,
         "name": "visualidentity-perception",
         "prevSize": 32,
@@ -2991,7 +2991,7 @@
         {}
       ],
       "properties": {
-        "order": 312,
+        "order": 426,
         "id": 5,
         "name": "visualidentity-phoenix",
         "prevSize": 32,
@@ -3033,7 +3033,7 @@
         {}
       ],
       "properties": {
-        "order": 313,
+        "order": 427,
         "id": 4,
         "name": "visualidentity-rpn",
         "prevSize": 32,
@@ -3067,7 +3067,7 @@
         {}
       ],
       "properties": {
-        "order": 314,
+        "order": 428,
         "id": 3,
         "name": "visualidentity-rpnapp",
         "prevSize": 32,
@@ -3101,7 +3101,7 @@
         {}
       ],
       "properties": {
-        "order": 315,
+        "order": 429,
         "id": 2,
         "name": "visualidentity-satax",
         "prevSize": 32,
@@ -3135,7 +3135,7 @@
         {}
       ],
       "properties": {
-        "order": 316,
+        "order": 430,
         "id": 1,
         "name": "visualidentity-sien",
         "prevSize": 32,
@@ -3169,7 +3169,7 @@
         {}
       ],
       "properties": {
-        "order": 333,
+        "order": 431,
         "id": 90,
         "name": "visualidentity-swisspol",
         "prevSize": 32,
@@ -3203,7 +3203,7 @@
         {}
       ],
       "properties": {
-        "order": 327,
+        "order": 432,
         "id": 88,
         "name": "visualidentity-swisspolindex",
         "prevSize": 32,
@@ -3237,7 +3237,7 @@
         {}
       ],
       "properties": {
-        "order": 318,
+        "order": 433,
         "id": 87,
         "name": "visualidentity-symic",
         "prevSize": 32,
@@ -3271,7 +3271,7 @@
         {}
       ],
       "properties": {
-        "order": 317,
+        "order": 434,
         "id": 0,
         "name": "visualidentity-tcs",
         "prevSize": 32,
@@ -3305,7 +3305,7 @@
         {}
       ],
       "properties": {
-        "order": 319,
+        "order": 435,
         "id": 80,
         "name": "visualidentity-teb",
         "prevSize": 32,
