@@ -1,18 +1,19 @@
 @font-face {
   font-family: 'edicons';
-  src:  url('fonts/edicons.eot?k2cb2g');
-  src:  url('fonts/edicons.eot?k2cb2g#iefix') format('embedded-opentype'),
-    url('fonts/edicons.ttf?k2cb2g') format('truetype'),
-    url('fonts/edicons.woff?k2cb2g') format('woff'),
-    url('fonts/edicons.svg?k2cb2g#edicons') format('svg');
+  src:  url('fonts/edicons.eot?fxh4pi');
+  src:  url('fonts/edicons.eot?fxh4pi#iefix') format('embedded-opentype'),
+    url('fonts/edicons.ttf?fxh4pi') format('truetype'),
+    url('fonts/edicons.woff?fxh4pi') format('woff'),
+    url('fonts/edicons.svg?fxh4pi#edicons') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="edicons-"], [class*=" edicons-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'edicons' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -24,6 +25,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.edicons-arrow-down:before {
+  content: "\e95b";
+}
+.edicons-arrow-left:before {
+  content: "\e962";
+}
+.edicons-arrow-right:before {
+  content: "\e963";
+}
+.edicons-arrow-up:before {
+  content: "\e964";
+}
+.edicons-ball:before {
+  content: "\e965";
+}
+.edicons-boat:before {
+  content: "\e966";
+}
 .edicons-bullet-black:before {
   content: "\e900";
 }
@@ -78,11 +97,41 @@
 .edicons-discipline-visualarts:before {
   content: "\e911";
 }
+.edicons-dog:before {
+  content: "\e967";
+}
+.edicons-game-card:before {
+  content: "\e968";
+}
+.edicons-game-conjugate:before {
+  content: "\e983";
+}
+.edicons-game-grid:before {
+  content: "\e969";
+}
+.edicons-game-link:before {
+  content: "\e96a";
+}
+.edicons-game-sort:before {
+  content: "\e96b";
+}
+.edicons-game-translate:before {
+  content: "\e97a";
+}
+.edicons-game-write:before {
+  content: "\e96c";
+}
+.edicons-hook:before {
+  content: "\e96d";
+}
 .edicons-learning:before {
   content: "\e912";
 }
 .edicons-learningoptional:before {
   content: "\e913";
+}
+.edicons-roof:before {
+  content: "\e96e";
 }
 .edicons-sense-hearing:before {
   content: "\e914";
@@ -174,6 +223,9 @@
 .edicons-smile-sad-white:before {
   content: "\e931";
 }
+.edicons-speak:before {
+  content: "\e981";
+}
 .edicons-studentf:before {
   content: "\e932";
 }
@@ -201,6 +253,9 @@
 .edicons-tool-stab:before {
   content: "\e93a";
 }
+.edicons-visualidentity-angularlib:before {
+  content: "\e96f";
+}
 .edicons-visualidentity-api:before {
   content: "\e95f";
 }
@@ -213,14 +268,23 @@
 .edicons-visualidentity-camac:before {
   content: "\e959";
 }
+.edicons-visualidentity-celfon:before {
+  content: "\e970";
+}
 .edicons-visualidentity-ch:before {
   content: "\e93b";
 }
 .edicons-visualidentity-choix11:before {
   content: "\e93c";
 }
+.edicons-visualidentity-cloee2:before {
+  content: "\e971";
+}
 .edicons-visualidentity-common:before {
   content: "\e93d";
+}
+.edicons-visualidentity-courrier:before {
+  content: "\e980";
 }
 .edicons-visualidentity-datatransmock:before {
   content: "\e94f";
@@ -236,6 +300,12 @@
 }
 .edicons-visualidentity-ec:before {
   content: "\e93f";
+}
+.edicons-visualidentity-editx:before {
+  content: "\e982";
+}
+.edicons-visualidentity-entreprise:before {
+  content: "\e97b";
 }
 .edicons-visualidentity-folio:before {
   content: "\e940";
@@ -261,6 +331,9 @@
 .edicons-visualidentity-idserver:before {
   content: "\e961";
 }
+.edicons-visualidentity-impotfoncier:before {
+  content: "\e979";
+}
 .edicons-visualidentity-ksiop:before {
   content: "\e954";
 }
@@ -273,11 +346,11 @@
 .edicons-visualidentity-neapp:before {
   content: "\e946";
 }
-.edicons-visualidentity-neapp2:before {
-  content: "\e95b";
-}
 .edicons-visualidentity-nemo:before {
   content: "\e960";
+}
+.edicons-visualidentity-neptune:before {
+  content: "\e97f";
 }
 .edicons-visualidentity-nuget:before {
   content: "\e95c";
@@ -288,8 +361,14 @@
 .edicons-visualidentity-perception:before {
   content: "\e948";
 }
+.edicons-visualidentity-personne:before {
+  content: "\e97c";
+}
 .edicons-visualidentity-phoenix:before {
   content: "\e949";
+}
+.edicons-visualidentity-polcom:before {
+  content: "\e972";
 }
 .edicons-visualidentity-rpn:before {
   content: "\e94a";
@@ -300,8 +379,14 @@
 .edicons-visualidentity-satax:before {
   content: "\e94c";
 }
+.edicons-visualidentity-sedex:before {
+  content: "\e973";
+}
 .edicons-visualidentity-sien:before {
   content: "\e94d";
+}
+.edicons-visualidentity-spch-licmgmt:before {
+  content: "\e974";
 }
 .edicons-visualidentity-swisspol:before {
   content: "\e95d";
@@ -312,10 +397,27 @@
 .edicons-visualidentity-symic:before {
   content: "\e955";
 }
+.edicons-visualidentity-syvote-scanning:before {
+  content: "\e97d";
+}
 .edicons-visualidentity-tcs:before {
   content: "\e94e";
 }
 .edicons-visualidentity-teb:before {
   content: "\e956";
 }
-
+.edicons-visualidentity-tfs:before {
+  content: "\e975";
+}
+.edicons-visualidentity-uep:before {
+  content: "\e97e";
+}
+.edicons-wallet:before {
+  content: "\e976";
+}
+.edicons-wheel:before {
+  content: "\e977";
+}
+.edicons-wildlife:before {
+  content: "\e978";
+}

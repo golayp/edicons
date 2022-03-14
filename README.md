@@ -1,13 +1,13 @@
 edicons
 =======
 
-A short set of icons for educational purpose.
+A short set of custom icons.
 
 src folder contains the svg sources of all icons.
 
-generated folder contains generated fonts and css stylsheet (made with icomoon app https://icomoon.io/app/ thanks to keyamoon https://twitter.com/keyamoon)
+generated folder contains generated fonts and css stylesheet (made with icomoon app https://icomoon.io/app/ thanks to keyamoon https://twitter.com/keyamoon).
 
-<a href="https://cdn.rawgit.com/golayp/edicons/master/generated/demo.html">demo of all icons</a>
+colorizedpngs contains a colorized 192x192 px version of visualidentity icons.
 
 You can load the icomoon app project using the edicons.json
 

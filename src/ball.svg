@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="32" height="32"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" d="M16,0c-8.823,0-16,7.177-16,16c0,8.821,7.177,16,16,16c8.822,0,16-7.179,16-16
+		C32,7.178,24.822,0,16,0 M10.072,29.021l1.385-1.31l-1.224-5.417l-5.302-1.22l-1.274,2.157c-1.249-2.124-1.969-4.595-1.969-7.231
+		c0-2.54,0.667-4.923,1.83-6.993l0.65,1.137l5.474-1.353l1.409-4.038L9.045,3.498c2.06-1.151,4.431-1.809,6.955-1.809
+		c2.501,0,4.854,0.646,6.901,1.778l-1.188,0.586v4.211l5.45,2.022l1.253-1.388c1.203,2.095,1.896,4.519,1.896,7.104
+		c0,2.879-0.858,5.561-2.327,7.809l-1.036-1.434l-5.531,0.5l-1.905,5.095l1.717,1.348c-1.621,0.639-3.384,0.994-5.229,0.994
+		C13.886,30.313,11.88,29.848,10.072,29.021"/>
+	<polygon clip-path="url(#SVGID_2_)" points="11.004,16.886 15.605,20.479 20.681,17.541 19.388,11.482 13.347,11.27 	"/>
+</g>
+</svg>
